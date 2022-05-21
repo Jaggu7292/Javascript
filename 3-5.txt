@@ -1,0 +1,6 @@
+var obj = {
+    firstName : "Jagadeesh",
+    middleName : "Jaggu",
+    lastName : "P"
+};
+console.log(obj);

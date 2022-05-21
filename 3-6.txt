@@ -1,0 +1,5 @@
+var str = '({"fname" : "Jagadeesh", "lname" : "Jaggu"})';
+
+var obj = eval(str);
+
+document.write(obj.fname + " " + obj.lname);
